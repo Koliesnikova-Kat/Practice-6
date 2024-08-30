@@ -1,11 +1,11 @@
 {
-  "name": "Practice-6-1",
+  "name": "Practice-6",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Practice-6-1/",
+    "build": "vite build --base=/Practice-6/",
     "preview": "vite preview"
   },
   "devDependencies": {
