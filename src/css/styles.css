@@ -1,4 +1,5 @@
 @import url('./reset.css');
+@import url('tui-pagination/dist/tui-pagination.css');
 
 * {
   box-sizing: border-box;
